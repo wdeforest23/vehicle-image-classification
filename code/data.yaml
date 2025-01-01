@@ -1,0 +1,9 @@
+path: /home/jupyter/advanced_cv_project/dataset
+train: train/images
+val: val/images
+
+# Number of classes
+nc: 1  # Update this if you have more classes
+
+# Class names
+names: ['car']  # Update this with your class names
